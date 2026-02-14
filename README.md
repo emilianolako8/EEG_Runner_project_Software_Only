@@ -5,7 +5,7 @@ A real-time Brain-Computer Interface (BCI) simulation project that connects synt
 
 This project simulates realistic EEG brainwave data (alpha rhythms, noise, and blink artifacts) and visualizes it live using PyQtGraph, while a Pygame runner game reacts to detected blink spikes.
 
-Clicking the BLINK button injects a spike into the EEG signal, which appears in the waveform and triggers the player to jump — mimicking how a real EEG-based BCI system would work.
+Clicking the BLINK button injects a spike into the EEG signal, which appears in the waveform and triggers the player to jump , mimicking how a real EEG-based BCI system would work.
 
 ## Features
 
